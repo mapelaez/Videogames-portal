@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Tienda de Videojuegos</title>
 </head>
 <body>
 <h1>TIENDA DE VIDEOJUEGOS</h1>
