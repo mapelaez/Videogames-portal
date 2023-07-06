@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+  <definition name="myapp.login" template="/layouts/classic.jsp">
+    <put-attribute name="title" value="J2EE login" />
+    <put-attribute name="body" value="/tiles/body.jsp" />
+    <put-attribute name="footer" value="/tiles/footer.jsp" />
+  </definition>
+  <definition name="myfooter" template="/tiles/footer.jsp">
+  
+  </definition>
+  <definition name="myheader" template="/tiles/header.jsp">
+  
+  </definition>
+</tiles-definitions>

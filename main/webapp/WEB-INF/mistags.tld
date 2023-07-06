@@ -1,0 +1,13 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>1.2</jsp-version>
+	<short-name>Librería examen</short-name>
+	
+	<uri>mistags</uri>
+	<description>Mis tags para el proyecto</description>
+	
+	<tag>
+		<name>listarusuarios</name>
+		<tag-class>edu.ucam.tags.ListarUsuarios</tag-class>
+	</tag>
+</taglib>
