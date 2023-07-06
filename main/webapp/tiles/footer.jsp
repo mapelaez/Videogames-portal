@@ -8,7 +8,7 @@
 </head>
 <body>
 <br>
-<p aling=center>Trabajo realizado por Miguel Angel Pelaez y Juan Ramon Galvez(footer de apache tiles)</p>
+<p aling=center>Trabajo realizado por Miguel Angel Pelaez</p>
 <br>
 </body>
 </html>
